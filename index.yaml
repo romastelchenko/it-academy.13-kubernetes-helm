@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  drupal-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-11-24T21:30:16.595379947+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 1c153b762f8d481c2f6daa262456d144b5f3b8d936e981b946e7d9081ede5d55
+    name: drupal-app
+    type: application
+    urls:
+    - https://romastelchenko.github.io/it-academy.13-kubernetes-helm/helm-releases/drupal-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-11-24T21:30:16.594131945+01:00"
